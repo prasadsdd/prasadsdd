@@ -24,7 +24,7 @@ I’m currently exploring:
 - **Finance & Operational Analytics**: Using AI to create cost-saving solutions and improve financial forecasting.
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- **Email**: [Your Email](mailto:your.email@example.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/feed/))
+- **Email**: [Your Email](pashdhumal083@gmail.com)
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or discuss innovative AI-driven ideas!
