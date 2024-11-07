@@ -17,10 +17,6 @@ I'm a Data Scientist with over 3 years of experience building and deploying AI-d
 ## 🌱 Passion for AI Innovation
 I'm passionate about leveraging AI to solve complex business challenges, optimize workflows, and enhance decision-making processes. Whether it's deploying a new model, exploring the latest in LLMs, or experimenting with RAG for information retrieval, I’m always looking for ways to innovate and drive efficiency.
 
-## 🔍 Current Focus
-I’m currently exploring:
-- **Real-time Machine Learning Projects**: Developing end-to-end, scalable ML solutions that bring real-time value to users.
-- **Generative AI Advancements**: Diving into prompt engineering, vector databases, and RAG systems to push the boundaries of conversational AI.
 - 
 ## 📫 Let's Connect!
 - **LinkedIn**: https://www.linkedin.com/feed/
