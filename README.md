@@ -24,6 +24,5 @@ I’m currently exploring:
 - 
 ## 📫 Let's Connect!
 - **LinkedIn**: https://www.linkedin.com/feed/
-- **Email**: pashdhumal083@gmail.com
 
 Feel free to explore my repositories.
