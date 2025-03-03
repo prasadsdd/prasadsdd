@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prasad!
 
-I'm a Data Scientist with over 3 years of experience building and deploying AI-driven solutions that make a tangible impact. My work spans machine learning, deep learning, NLP, and generative AI, with a focus on creating value in business contexts. Here’s a quick snapshot of my journey so far:
+I'm a Data Scientist with over 3.4 years of experience building and deploying AI-driven solutions that make a tangible impact. My work spans machine learning, deep learning, NLP, and generative AI, with a focus on creating value in business contexts. Here’s a quick snapshot of my journey so far:
 
 ## 🚀 Professional Highlights
 - **AI-Powered Systems Architect**: Built a Retrieval-Augmented Generation (RAG) system that enhanced query resolution accuracy by 30%, enabling faster and more accurate insights for users.
