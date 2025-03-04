@@ -18,7 +18,5 @@ I'm a Data Scientist with over 3.4 years of experience building and deploying AI
 I'm passionate about leveraging AI to solve complex business challenges, optimize workflows, and enhance decision-making processes. Whether it's deploying a new model, exploring the latest in LLMs, or experimenting with RAG for information retrieval, I’m always looking for ways to innovate and drive efficiency.
 
 - 
-## 📫 Let's Connect!
-- **LinkedIn**: https://www.linkedin.com/feed/
 
 Feel free to explore my repositories.
