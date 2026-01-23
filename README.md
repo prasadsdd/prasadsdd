@@ -66,4 +66,4 @@ NLP pipeline for automated sentiment analysis from customer reviews
 - LangChain framework
 
 
-⭐️ From [prasaddhumal](https://github.com/prasaddhumal)
+⭐️ From [prasaddhumal](https://github.com/prasadsdd)
