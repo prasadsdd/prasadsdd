@@ -1,22 +1,74 @@
-# 👋 Hello, I'm Prasad!
+# Hi there, I'm Prasad Dhumal 👋
 
-I'm a Data Scientist with over 3.6 years of experience building and deploying AI-driven solutions that make a tangible impact. My work spans machine learning, deep learning, NLP, and generative AI, with a focus on creating value in business contexts. Here’s a quick snapshot of my journey so far:
+## Data Scientist | ML Engineer | NLP Enthusiast
 
-## 🚀 Professional Highlights
-- **AI-Powered Systems Architect**: Built a Retrieval-Augmented Generation (RAG) system that enhanced query resolution accuracy by 30%, enabling faster and more accurate insights for users.
-- **Predictive Modeling in Finance**: Developed predictive models that reduced operational costs by 15% in the financial sector, supporting data-driven decision-making and operational efficiency.
-- **Generative AI Expertise**: Skilled in working with Large Language Models (LLMs) and generative AI to create dynamic solutions for complex problems.
+I'm a Data Scientist with 3.6 years of experience building production-grade machine learning systems that deliver real business impact. I specialize in end-to-end ML pipelines, predictive modeling, and NLP solutions.
 
-## 💡 Technical Skills
-- **Programming**: Python, SQL
-- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Cloud & Infrastructure**: AWS Cloud, Docker
-- **Vector Databases**: FAISS, Pinecone
-- **Generative AI & LLMs**: OpenAI, LangChain, Google Gemini, RAG, Fine-Tunning, BERT, GPT, LLAMA, Transformers
+### 🚀 What I Do
 
-## 🌱 Passion for AI Innovation
-I'm passionate about leveraging AI to solve complex business challenges, optimize workflows, and enhance decision-making processes. Whether it's deploying a new model, exploring the latest in LLMs, or experimenting with RAG for information retrieval, I’m always looking for ways to innovate and drive efficiency.
+- Build and deploy production ML systems on AWS
+- Develop predictive models for risk assessment and customer analytics
+- Create NLP solutions for sentiment analysis and text classification
+- Implement MLOps pipelines with MLflow, DVC, and Docker
 
-- 
+### 💼 Professional Impact
 
-Feel free to explore my repositories.
+- 📉 Reduced loan default rates by **13%** through early warning systems
+- ⚡ Cut manual underwriting effort by **45%** with automated ML pipelines
+- 📊 Improved customer satisfaction by **30%** using NLP sentiment analysis
+- 🎯 Decreased loan decision time by **33%** with real-time prediction APIs
+
+### 🛠️ Technical Stack
+
+**Languages & Core:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Machine Learning:**  
+`Scikit-learn` `XGBoost` `Random Forest` `SVM` `Logistic Regression` `Decision Trees`
+
+**Deep Learning:**  
+`TensorFlow` `PyTorch` `Neural Networks` `CNN` `RNN` `LSTM` `Transformers`
+
+**NLP:**  
+`NLTK` `TF-IDF` `Word2Vec` `Text Classification` `Sentiment Analysis`
+
+**MLOps & Cloud:**  
+`MLflow` `DVC` `Docker` `FastAPI` `AWS (EC2, S3, ECR)` `Git` `CI/CD`
+
+**Data & Visualization:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `SQL`
+
+### 📂 Featured Projects
+
+#### 🏦 Automated Loan Eligibility & Lead Scoring System
+Production ML system for banking domain with multi-class classification
+- **Tech:** XGBoost, Random Forest, FastAPI, AWS, MLflow, DVC
+- **Impact:** 45% reduction in manual underwriting, 33% faster decisions
+
+#### 📉 Predictive Loan Default & Early Warning System
+Early warning system predicting defaults 3-6 months in advance
+- **Tech:** XGBoost, Logistic Regression, AWS, MLflow
+- **Impact:** 13% reduction in loan defaults, monitoring 50K+ accounts daily
+
+#### 💬 Customer Sentiment & Complaint Pattern Detection
+NLP pipeline for automated sentiment analysis from customer reviews
+- **Tech:** NLTK, TF-IDF, Bag-of-Words, Random Forest
+- **Impact:** 16% reduction in product returns, 30% improvement in satisfaction
+
+### 📈 GitHub Stats
+
+![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasaddhumal&show_icons=true&theme=radical)
+
+### 🌱 Currently Learning
+
+- Advanced Generative AI techniques
+- Large Language Models (LLMs)
+- RAG (Retrieval-Augmented Generation)
+- LangChain framework
+
+
+
+---
+
+⭐️ From [prasaddhumal](https://github.com/prasaddhumal)
