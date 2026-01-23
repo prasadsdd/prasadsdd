@@ -2,7 +2,7 @@
 
 ## Data Scientist | ML Engineer | NLP Enthusiast
 
-I'm a Data Scientist with 3.6 years of experience building production-grade machine learning systems that deliver real business impact. I specialize in end-to-end ML pipelines, predictive modeling, and NLP solutions.
+I'm a Data Scientist with 3.8 years of experience building production-grade machine learning systems that deliver real business impact. I specialize in end-to-end ML pipelines, predictive modeling, and NLP solutions.
 
 ### 🚀 What I Do
 
@@ -56,9 +56,7 @@ NLP pipeline for automated sentiment analysis from customer reviews
 - **Tech:** NLTK, TF-IDF, Bag-of-Words, Random Forest
 - **Impact:** 16% reduction in product returns, 30% improvement in satisfaction
 
-### 📈 GitHub Stats
 
-![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasaddhumal&show_icons=true&theme=radical)
 
 ### 🌱 Currently Learning
 
@@ -67,8 +65,5 @@ NLP pipeline for automated sentiment analysis from customer reviews
 - RAG (Retrieval-Augmented Generation)
 - LangChain framework
 
-
-
----
 
 ⭐️ From [prasaddhumal](https://github.com/prasaddhumal)
